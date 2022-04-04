@@ -156,6 +156,7 @@ winget install ProtonTechnologies.ProtonVPN
 winget install TimKosse.FileZilla.Client
 winget install voidtools.Everything
 winget install stnkl.EverythingToolbar
+winget install Git.Git
 
 #long installs
 
