@@ -157,6 +157,7 @@ winget install TimKosse.FileZilla.Client
 winget install voidtools.Everything
 winget install stnkl.EverythingToolbar
 winget install Git.Git
+winget install Microsoft.WindowsTerminal.Preview
 
 #long installs
 
