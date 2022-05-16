@@ -5,7 +5,7 @@ This is the ultimate Windows debloat script.
 # Content
 - Activating windows
 - Uninstalling Windows Explorer and Bloatware
-<details><summary>Installing</summary><ul>
+- <details><summary>Installing</summary><ul>
   <li>7-Zip</li>
   <li><details><summary>Firefox</summary>
    <li>Firefox</li>
