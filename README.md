@@ -6,7 +6,6 @@ This is the ultimate Windows debloat script.
 - Activating windows
 - Uninstalling Windows Explorer and Bloatware
 - <details><summary>Installing</summary><ul>
-  <li>7-Zip</li>
   <li><details><summary>Firefox</summary>
    <li>Firefox</li>
    <li>Firefox Beta</li>
@@ -27,7 +26,7 @@ This is the ultimate Windows debloat script.
   <li>Logitech GHUB</li>
   <li>Spotify</li>
   <li>Steam</li>
-  <br>
+  <li>7-Zip</li>
   <li>Proton VPN</li>
   <li>Filezilla</li>
   <li>Everything</li>
